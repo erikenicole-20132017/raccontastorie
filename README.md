@@ -10,7 +10,7 @@ qui sono i file interni del raccontastorie  collegato a usb 3.0
 
 ## Storyteller
 
-scarica l'archivio: 
+puoi scaricare l'archivio nella sezione 'codice', poi clicca StorytellerSetup.zip
 
 ## Esplora File
 /autorun.inf
