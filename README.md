@@ -11,5 +11,8 @@ qui sono i file interni del raccontastorie  collegato a usb 3.0
 l'applicazione di raccontastorie uscirà presto...
 
 ## Esplora File
+/autorun.inf
 
 /music logo.ico
+
+/music.ini
