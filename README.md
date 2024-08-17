@@ -8,7 +8,9 @@ il mio raccontastorie ha tre rotelle da scorrere. ogni disegno corrisponde a una
 
 qui sono i file interni del raccontastorie  collegato a usb 3.0
 
-l'applicazione di raccontastorie uscirà presto...
+## Storyteller
+
+scarica l'archivio: 
 
 ## Esplora File
 /autorun.inf
